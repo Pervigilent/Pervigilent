@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Pervigilent
+- 👀 I’m interested in ... artificial intelligence and computational biology
+- 🌱 I’m currently learning ... RF microelectronics and mixed signal design
+- 💞️ I’m looking to collaborate on ... electromagnetic FDTD and FEM user interface
+- 📫 How to reach me ... pervigilent@gmail.com
+- In the future, I'd like to develop an open source optical-RF development suite
